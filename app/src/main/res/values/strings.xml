@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">G books api</string>
+    <string name="search_btn">поиск</string>
+    <string name="search">Название книги или автор</string>
+    <string name="title">title</string>
+    <string name="description">description</string>
+    <string name="authors">Authors</string>
+    <string name="publish_date">Publish Date</string>
+    <string name="book_title">Book Title</string>
+</resources>
